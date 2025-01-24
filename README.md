@@ -107,13 +107,13 @@ audio_array = generate_audio(text_prompt)
 ## 💻 Installation
 
 ```
-pip install git+https://github.com/suno-ai/0xIQ.git
+pip install git+https://github.com/0xIQai/IQ.git
 ```
 
 or
 
 ```
-git clone https://github.com/suno-ai/0xIQ
+git clone [https://github.com/suno-ai/0xIQ](https://github.com/0xIQai/IQ.git)
 cd 0xIQ && pip install . 
 ```
 
